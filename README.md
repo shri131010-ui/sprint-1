@@ -4,7 +4,7 @@ This project is a responsive landing page developed for Prodesk IT as part of Sp
 
 Important Links--
 
-Live Website: (https://unique-arithmetic-afd432.netlify.app/)
+Live Website: (https://capable-dusk-2ad5f7.netlify.app/)
 
 Demo Video: [Insert your 2-3 minute QA demo video link here]
 
