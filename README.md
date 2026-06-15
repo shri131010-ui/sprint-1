@@ -2,6 +2,12 @@
 
 This project is a responsive landing page developed for Prodesk IT as part of Sprint 1. The objective was to create a modern, user-friendly, and fully responsive website using HTML, CSS, and JavaScript.
 
+Important Links--
+
+Live Website: (https://unique-arithmetic-afd432.netlify.app/)
+
+Demo Video: [Insert your 2-3 minute QA demo video link here]
+
 ## Features
 
 ### Phase 1 (Base MVP)
