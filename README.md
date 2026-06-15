@@ -1,44 +1,37 @@
-# sprint-1
-#-->  Responsive Landing Page Project
+# Prodesk IT Landing Page - Sprint 1
 
-A modern, fully responsive landing page built using HTML, CSS, and Vanilla JavaScript.  
-The project focuses on clean UI design, responsive layouts, and interactive user experience without using any external UI frameworks.
+This project is a responsive landing page developed for Prodesk IT as part of Sprint 1. The objective was to create a modern, user-friendly, and fully responsive website using HTML, CSS, and JavaScript.
 
-##✨ Features
+## Features
 
-###  Core UI (MVP)
-- Fully responsive navigation bar (desktop + mobile support)
-- Hero section with headline, description, and call-to-action button
-- Services section using CSS Grid/Flexbox (3 responsive cards)
-- Footer with basic information and social icons
-- Mobile-first responsive design
+### Phase 1 (Base MVP)
 
-###  UI/UX Enhancements
-- 🌙 Dark / Light mode toggle using JavaScript
-- 🎯 Hover animations for buttons (scale + color effects)
-- 🧲 Card lift effect using transform and shadow
-- 📌 Sticky navigation bar on scroll
-- 
-##  Tech Stack
-- HTML5
-- CSS3 (Flexbox + Grid)
-- Vanilla JavaScript
+* Responsive Navigation Bar
+* Hero Section with Call-To-Action Button
+* Services Section with 3 Service Cards
+* Responsive Layout using Flexbox/Grid
+* Footer with Social Media Links
+* Mobile, Tablet, and Desktop Compatibility
 
-## Responsive Design
-Optimized for:
-- Mobile devices
-- Desktop screens
+### Phase 2 (UI/UX Enhancements)
 
-## 🎯 Key Learning Outcomes
-- Responsive layout design using Flexbox & Grid
-- DOM manipulation using JavaScript
-- Theme switching implementation
-- UI/UX micro-interactions
+* Dark/Light Theme Toggle
+* Hover Effects on Buttons and Cards
+* Sticky Navigation Bar
+* Smooth User Experience Improvements
 
-## 👨‍💻 Status
-✔ MVP Completed  
-✔ UI/UX Enhancements Completed  
-⏳ Advanced optimizations pending  
+### Technologies Used
 
+* HTML5
+* CSS3 (Flexbox & Grid)
+* JavaScript (Vanilla JS)
 
-⭐ Feel free to explore and fork this project.
+### Project Goals
+
+* Build a clean and professional landing page
+* Ensure responsiveness across all devices
+* Improve user experience through interactive elements
+* Follow modern web development best practices
+
+© 2026 Prodesk IT
+
