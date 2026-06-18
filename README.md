@@ -6,7 +6,7 @@ Important Links--
 
 Live Website: (https://incomparable-jalebi-162835.netlify.app/)
 
-Demo Video: [Insert your 2-3 minute QA demo video link here]
+
 
 ## Features
 
